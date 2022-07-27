@@ -85,3 +85,8 @@ To understand more about app registration, see:
 
 - [Quickstart: Register an application with the Microsoft identity platform (Preview)](https://docs.microsoft.com/azure/active-directory/develop/quickstart-register-app)
 - [Quickstart: Configure a client application to access web APIs (Preview)](https://docs.microsoft.com/azure/active-directory/develop/quickstart-configure-app-access-web-apis)
+
+
+## Create API and Connection with Azure AD
+-Create a Azure tennant : https://docs.microsoft.com/es-es/azure/active-directory-b2c/tutorial-create-tenant?WT.mc_id=Portal-Microsoft_AAD_B2CAdmin
+-Create an API Connector : https://docs.microsoft.com/en-us/azure/active-directory-b2c/add-api-connector?pivots=b2c-user-flow
